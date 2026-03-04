@@ -1,0 +1,4 @@
+Hospital,Department,Patients,Average_Stay_Days,Cost_Per_Patient
+Hospital A,Cardiology,1200,4.2,3500
+Hospital B,Surgery,900,5.1,4200
+Hospital C,Emergency,1500,2.8,2100
